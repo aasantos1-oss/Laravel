@@ -27,7 +27,7 @@
         @yield('content')
     </main>
     <footer class="site-footer">
-        <div class="footer-inner"><span>Counterpoint POS</span><span>IT0049 / TFA5 &middot; Laravel foundations</span></div>
+        <div class="footer-inner"><span>Counterpoint POS</span><span>IT0049 / TFA6 &middot; Laravel foundations</span></div>
     </footer>
 </body>
 </html>
